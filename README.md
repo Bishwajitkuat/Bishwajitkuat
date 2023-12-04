@@ -72,4 +72,4 @@ I like programming and web development. I am finishing up my study of Full Stack
 
 [![Bishwajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishwajitkuat)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwajitkuat&layout=donut)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwajitkuat&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
