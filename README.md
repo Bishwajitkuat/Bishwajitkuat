@@ -70,5 +70,6 @@ I like programming and web development. I am finishing up my study of Full Stack
 
 <!-- [![Bishwajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishwajitkuat)](https://github.com/Bishwajitkuat) -->
 <a href="http://www.github.com/Bishwajitkuat"><img src="https://github-readme-stats.vercel.app/api?username=Bishwajitkuat&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Bishwajitkuat's GitHub stats" /></a>
+<a href="http://www.github.com/Bishwajitkuat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishwajitkuat&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwajitkuat&layout=donut)](https://github.com/Bishwajitkuat)
