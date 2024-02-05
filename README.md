@@ -1,4 +1,4 @@
-<img src="resources/profile_picture.JPG" width="300" height="auto">
+<!-- <img src="resources/profile_picture.JPG" width="300" height="auto"> -->
 
 # Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Bishwajit (Bisso)
 
